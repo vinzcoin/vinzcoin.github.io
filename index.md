@@ -1,6 +1,12 @@
 ---
 layout: default
+title: [Vinzcoin]
+description: [Decentralized but focused]
+logo: [VZC.png]
+show_downloads: [false]
 ---
+
+
 ![Vinzcoin](VZC.png)
 
 # Vinzcoin
