@@ -15,16 +15,11 @@ Vinzcoin is (probably) the first cryptocurrency, the entire concept of which is 
 
 Start today and mine Vinzcoin.
 
-full source can be found at https://github.com/vinzcoin/vinzcoin
+Full source can be found [here](https://github.com/vinzcoin/vinzcoin)
 
 
-# Famous Quotes
+## Famous Quotes
 
 > At least as good as Bitcoin. 
->
 > But with a better name.
 
-
-```
-The final element.
-```
